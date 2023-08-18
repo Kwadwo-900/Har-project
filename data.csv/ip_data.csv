@@ -102,7 +102,7 @@ Timestamp,Username,Gender,Educational Background,Occupational Status,Disposable 
 2023/05/31 12:05:58 am GMT-6,danjumahdogbe2000@gmail.com,Male,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,No,Yes,Neutral,No
 2023/05/31 1:32:17 am GMT-6,derricksdosu@gmail.com,Male,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,Yes,No,Neutral,Maybe
 2023/05/31 2:59:00 am GMT-6,bennyhans444@gmail.com,Male,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-2023/05/31 3:04:51 am GMT-6,opongvincent@gmail.com,Male,Masters Degree,Employed,More than 3000,No,Yes,Yes,No,Yes,No,Bad,Yes
+2023/05/31 3:04:51 am GMT-6,opongvincent@gmail.com,Male,Tertiary,Employed,More than 3000,No,Yes,Yes,No,Yes,No,Bad,Yes
 2023/05/31 8:20:36 am GMT-6,joseph.awer@gmail.com,Male,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,No,No,Neutral,Yes
 2023/05/31 9:34:17 am GMT-6,fauziatalatu27@gmail.com,Female,Tertiary,Student,1000 - 2000,No,Yes,No,Yes,Yes,No,Neutral,Maybe
 2023/05/31 1:12:47 pm GMT-6,saintwages110@gmail.com,Male,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Yes
@@ -130,7 +130,7 @@ Timestamp,Username,Gender,Educational Background,Occupational Status,Disposable 
 2023/06/06 11:22:45 am GMT-6,niiayimens12@gmail.com,Male,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
 2023/06/06 10:55:13 pm GMT-6,gayjeanjeremy000@gmail.com,Female,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,No,Yes,Neutral,Maybe
 2023/06/06 10:58:22 pm GMT-6,gayjeanjeremy000@gmail.com,Female,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,No,Yes,Neutral,Maybe
-2023/06/08 2:59:20 pm GMT-6,yakubuabdulhalik@gmail.com,Male,Postgraduate Professional Qualification ,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,No
+2023/06/08 2:59:20 pm GMT-6,yakubuabdulhalik@gmail.com,Male,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,No
 2023/06/12 10:45:50 am GMT-6,ayisijohnsongladys@gmail.com,Female,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 2023/06/12 1:06:34 pm GMT-6,rebekahsofo@gmail.com,Female,Tertiary,Student,1000 - 2000,No,Yes,No,Yes,No,No,Neutral,Maybe
 2023/06/14 4:39:39 am GMT-6,yumiakosuadwamena@gmail.com,Female,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
@@ -154,94 +154,94 @@ Timestamp,Username,Gender,Educational Background,Occupational Status,Disposable 
 2023/07/14 10:39:24 am GMT-6,pappoeandrea@gmail.com,Female,Tertiary,Student,1000 - 2000,No,Yes,No,Yes,Yes,No,Neutral,No
 2023/07/14 10:58:06 am GMT-6,gloria896542@gmail.com,Female,Secondary,Unemployed,Less than 1000,Yes,No,Yes,Yes,No,Yes,Neutral,No
 2023/07/14 5:23:38 pm GMT-6,deborahcudjoe2000@gmail.com,Female,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,Yes,No,Bad,Yes
-,,,Secondary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Secondary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Secondary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Secondary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Tertiary,Employed,More than 3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Secondary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
+,,,Secondary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
 ,,,Tertiary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,No
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
 ,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,No
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,No
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
 ,,,Tertiary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
 ,,,Tertiary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Tertiary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Secondary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Unemployed,1000-2000,No,Yes,Yes,Yes,Yes,Yes,Bad,Yes
-,,,Tertiary,Student,1000-2000,No,Yes,Yes,Yes,No,No,Bad,No
-,,,Tertiary,Student,1000-2000,No,Yes,Yes,Yes,No,No,Good,Yes
-,,,Tertiary,Student,2000-3000,No,Yes,Yes,Yes,No,No,Good,Maybe
-,,,Tertiary,Unemployed,1000-2000,No,Yes,Yes,Yes,Yes,No,Good,Yes
+,,,Tertiary,Unemployed,1000 - 2000,No,Yes,Yes,Yes,Yes,Yes,Bad,Yes
+,,,Tertiary,Student,1000 - 2000,No,Yes,Yes,Yes,No,No,Bad,No
+,,,Tertiary,Student,1000 - 2000,No,Yes,Yes,Yes,No,No,Good,Yes
+,,,Tertiary,Student,2000 - 3000,No,Yes,Yes,Yes,No,No,Good,Maybe
+,,,Tertiary,Unemployed,1000 - 2000,No,Yes,Yes,Yes,Yes,No,Good,Yes
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,No,Good,Maybe
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,No,Neutral,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,No,Neutral,Yes
 ,,,Tertiary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
-,,,Secondary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
+,,,Secondary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
 ,,,Tertiary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,No
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Basic,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,No,Neutral,Maybe
 ,,,Tertiary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Yes
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,No,Good,Maybe
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,No,Good,Maybe
 ,,,Tertiary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
-,,,Basic,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Tertiary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,No,No,Neutral,Maybe
-,,,Basic,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Maybe
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,No,Yes,Yes,No,Yes,Yes,Neutral,Yes
-,,,Basic,Unemployed,Less than 1000,Yes,No,Yes,Yes,No,No,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,No,Yes,Yes,No,Yes,Yes,Neutral,Yes
+,,,Secondary,Unemployed,Less than 1000,Yes,No,Yes,Yes,No,No,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
 ,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,No,No,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,No,No,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
-,,,Basic,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,Maybe
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Secondary,Employed,1000-2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,No,Neutral,Maybe
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,No,No,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,No
+,,,Secondary,Employed,Less than 1000,Yes,Yes,Yes,Yes,Yes,No,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Bad,Maybe
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Secondary,Employed,1000 - 2000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,No,Neutral,Maybe
 ,,,Tertiary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Secondary,Student,Less than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
-,,,Tertiary,Employed,2000-3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
+,,,Tertiary,Employed,2000 - 3000,Yes,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,No,No,Neutral,No
 ,,,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,Yes,Yes,Good,Yes
 ,,,Tertiary,Student,Less than 1000,No,No,No,No,No,No,Neutral,Maybe
@@ -250,9 +250,9 @@ Timestamp,Username,Gender,Educational Background,Occupational Status,Disposable 
 ,,,Tertiary,Student,Less than 1000,No,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
 ,,,Tertiary,Employed,Less than 1000,Yes,No,No,Yes,Yes,No,Good,No
 ,,,Tertiary,Student,Less than 1000,No,No,Yes,Yes,Yes,No,Good,Maybe
-,,,Tertiary,Student,1000-2000,No,No,Yes,No,Yes,No,Neutral,Maybe
-,,,Other ,Employed,Less than 1000,No,No,Yes,Yes,No,No,Neutral,Maybe
+,,,Tertiary,Student,1000 - 2000,No,No,Yes,No,Yes,No,Neutral,Maybe
+,,,Secondary,Employed,Less than 1000,No,No,Yes,Yes,No,No,Neutral,Maybe
 ,,,Tertiary,Employed,More than 3000,Yes,Yes,Yes,Yes,Yes,No,Neutral,No
 ,,,Tertiary,Employed,More than 3000,Yes,Yes,Yes,Yes,No,No,Good,Maybe
-,,,Other ,Employed,More than 3000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
-,,,Tertiary,Student,1000-2000,No,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Tertiary,Employed,More than 3000,Yes,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
+,,,Tertiary,Student,1000 - 2000,No,Yes,Yes,Yes,Yes,Yes,Neutral,Maybe
